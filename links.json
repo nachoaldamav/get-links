@@ -1,0 +1,32 @@
+[
+  {
+    "title": "create-vitawind",
+    "url": "https://github.com/huibizhang/vitawind/tree/package/create-vitawind",
+    "description": ""
+  },
+  {
+    "title": "create-vite",
+    "url": "https://github.com/vitejs/vite/tree/main/packages/create-vite",
+    "description": "Vite quickstart."
+  },
+  {
+    "title": "create-vite",
+    "url": "https://github.com/vitejs/vite/tree/main/packages/create-vite",
+    "description": "Scaffolding Your First Vite Project."
+  },
+  {
+    "title": "create-vitawind",
+    "url": "https://github.com/huibizhang/vitawind/tree/package/create-vitawind",
+    "description": "Scaffolding for TailwindCSS project."
+  },
+  {
+    "title": "create-electron-vite",
+    "url": "https://github.com/electron-vite/create-electron-vite",
+    "description": "Scaffolding Your Electron + Vite Project."
+  },
+  {
+    "title": "create-vite-app",
+    "url": "https://github.com/ErKeLost/create-vite-app",
+    "description": "Scaffolding Your Out Of The Box Vite Project."
+  }
+]
